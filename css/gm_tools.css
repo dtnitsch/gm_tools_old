@@ -1,0 +1,38 @@
+.header { padding: 0.3em 0.5em; background: #333; color: white; border-bottom: 1px solid #999; } 
+.header .logo { float: left; font-size: 120%; }
+.header .user { float: right; }
+.header .search { margin: 0 auto; text-align: center; }
+
+.header_details { padding: 0.3em 0.5em; border-bottom: 1px solid #999; background: #fff; }
+
+.title { font-weight: bold; }
+
+.content { padding: 0 1em; }
+
+input[type=text], select, textarea {
+    padding: 0.2em 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background: #fff;
+}
+
+input[type=text]:focus, select:focus, textarea:focus {
+    border: 1px solid #999;
+    background: #f9f3dc;
+}
+
+
+input[type=submit], input[type=button] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 0.5em 1em;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover, input[type=button]:hover {
+    background-color: #45a049;
+}
+

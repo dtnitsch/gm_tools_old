@@ -1,0 +1,5 @@
+- Single list - 1-* box, allow duplicates
+- Single List, combine many lists
+	- Lock lists, or fully randomize
+- Wizard - Pick one, then another - separated list
+- Wizard - Pick one, connected list
